@@ -1,0 +1,2 @@
+coffee = ->
+  "Hello World"
