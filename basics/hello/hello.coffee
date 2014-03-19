@@ -1,0 +1,2 @@
+coffeeScript = (java) ->
+  javaScript - java
