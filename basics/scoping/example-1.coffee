@@ -1,7 +1,4 @@
 me = "Joe"
-
-computeMe = ->
-  me = "Patrick Simpson"
-  #... do some stuff
-  me
-
+computeName = (name) ->
+  if name is "" then me
+  else "Patrick Simpson"
