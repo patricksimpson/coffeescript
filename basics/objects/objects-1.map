@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "objects-1.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "basics/objects/objects-1.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,KAAA,CAAA;;CAAA,CAAA,CACE,IADF;CACE,CAAM,EAAN,aAAA;CAAA,CACK,CAAL,CAAA;CADA,CAES,EAAT,GAAA;CAFA,CAGQ,EAAR,EAAA,CAAQ,KAAA,EAAA;CAJV,GAAA;;CAAA,CAWA,CAAA,CAAA,GAAO;CAXP"
+}

@@ -7,3 +7,7 @@
   };
 
 }).call(this);
+
+/*
+//@ sourceMappingURL=hello.map
+*/

@@ -21,3 +21,7 @@
   console.log(modNames);
 
 }).call(this);
+
+/*
+//@ sourceMappingURL=loops-2.map
+*/

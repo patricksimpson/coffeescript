@@ -12,3 +12,7 @@
   console.log(patrick.name);
 
 }).call(this);
+
+/*
+//@ sourceMappingURL=objects-1.map
+*/

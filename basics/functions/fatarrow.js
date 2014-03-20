@@ -11,3 +11,7 @@
   });
 
 }).call(this);
+
+/*
+//@ sourceMappingURL=fatarrow.map
+*/

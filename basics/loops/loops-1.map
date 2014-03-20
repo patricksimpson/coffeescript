@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "loops-1.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "basics/loops/loops-1.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,KAAA,8BAAA;;CAAA,CAAA,CAAQ,EAAR,CAAQ,EAAA,CAAA;;AAOR,CAAA,MAAA,qCAAA;sBAAA;CAAA,GAAA,OAAA;CAAA,EAPA;;CAAA,CAQA;;AAAM,CAAA;UAAA,oCAAA;wBAAA;IAA4B,CAAQ;CAApC;QAAA;CAAA;;CARN;;AASA,CAAA,MAAA,uCAAA;sBAAA;CAAA,GAAA,QAAA;CAAA,EATA;CAAA"
+}

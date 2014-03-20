@@ -27,3 +27,7 @@
   }
 
 }).call(this);
+
+/*
+//@ sourceMappingURL=loops-1.map
+*/

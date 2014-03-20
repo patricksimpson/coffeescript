@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "fatarrow.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "basics/functions/fatarrow.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,KAAA;KAAA,OAAA;;CAAA,CAAA,CAAS,EAAA,CAAT,EAAS,CAAA;;CAAT,CAUA,CAAA,GAAM,GAAM;CACV,GAAA,CAAC,CAAD;CACQ,EAAR,GAAA,CAAO,IAAP;CAFF,EAAW;CAVX"
+}

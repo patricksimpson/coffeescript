@@ -24,3 +24,7 @@
   };
 
 }).call(this);
+
+/*
+//@ sourceMappingURL=functions-2.map
+*/

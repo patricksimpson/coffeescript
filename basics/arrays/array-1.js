@@ -5,3 +5,7 @@
   people = ["Patrick", "Joe", "Smoe", "Barney", "Batman"];
 
 }).call(this);
+
+/*
+//@ sourceMappingURL=array-1.map
+*/

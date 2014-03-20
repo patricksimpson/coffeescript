@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "functions-1.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "basics/functions/functions-1.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,KAAA,KAAA;;CAAA,CAAA,CAAc,MAAA,EAAd;CACE,CAAA,MAAA;CAAA,CAAA,CAAK,CAAL,aAAA;CADY,UAGZ;CAHF,EAAc;CAAd"
+}

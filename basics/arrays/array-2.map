@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "array-2.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "basics/arrays/array-2.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,KAAA,CAAA;;CAAA,CAAA,CAAU,IAAV;CAAA"
+}

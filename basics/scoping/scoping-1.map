@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "scoping-1.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "basics/scoping/scoping-1.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,KAAA,SAAA;;CAAA,CAAA,CAAK,EAAL;;CAAA,CACA,CAAc,CAAA,KAAC,EAAf;CACE,CAAA,EAAA,CAAW;CAAX,YAAmB;MAAnB;CAAA,YACK;MAFO;CADd,EACc;CADd"
+}

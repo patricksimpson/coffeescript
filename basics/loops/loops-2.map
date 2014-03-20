@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "loops-2.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "basics/loops/loops-2.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,KAAA,sBAAA;;CAAA,CAAA,CAAQ,EAAR,CAAQ,EAAA,CAAA;;CAAR,CAQA,CAAc,GAAA,GAAC,EAAf;CACU,EAAR,GAAY,CAAL,IAAP;CATF,EAQc;;CARd,CAWA,CAAW,CAAU,CAAL,GAAhB,CAAsB;CAEpB,GAAA,CAAW,IAAX;CACE,GAAA,EAAA,KAAA;CAAA,EACO,CAAP,EAAA,WADA;MADF;CAFmB,UAKnB;CALS,EAAU;;CAXrB,CAkBA,CAAA,EAAA,EAAO;;CAlBP,CAmBA,CAAA,IAAO,CAAP;CAnBA"
+}

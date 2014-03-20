@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "comments.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "basics/comments/comments.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAGA;;;;;;CAAA;CAAA;CAAA;CAAA;CAAA"
+}

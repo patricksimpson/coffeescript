@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "classes-1.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "basics/classes/classes-1.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,KAAA,yBAAA;KAAA;oSAAA;;CAAA,CAAM;CACS,EAAA,CAAA,YAAE;CAAO,EAAP,CAAA,EAAD;CAAd,IAAa;;CAAb,EAEO,EAAP,IAAQ;CACE,EAAR,CAAa,GAAN,EAAc,IAArB;CAHF,IAEO;;CAFP;;CADF;;CAAA,CAMM;CACJ;;;;;CAAA;;CAAA,EAAO,EAAP,IAAQ;CACN,CAAA,IAAA,8BAAM;CACE,EAAR,IAAO,KAAP,CAAA;CAFF,IAAO;;CAAP;;CADqB;;CANvB,CAWA,CAAc,CAAA,GAAd,CAAc,SAAA;;CAXd,CAYA,GAAA,EAAO;CAZP"
+}

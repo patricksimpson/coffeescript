@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "logic-1.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "basics/logical/logic-1.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAO,CAAP,CAAA,EAAG;CAAc,GAAA,GAAA;IAAjB;;AAEO,CAAP,CAAA,EAAA;CACE,GAAA,GAAA;IAHF;;CAKA,CAAA,EAAG,CAAQ;CACT,GAAA,EAAA;IANF;;CAQA,CAAA,EAAG,CAAU;CACX,GAAA,EAAA;IATF;CAAA"
+}

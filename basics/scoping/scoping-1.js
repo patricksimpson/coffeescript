@@ -13,3 +13,7 @@
   };
 
 }).call(this);
+
+/*
+//@ sourceMappingURL=scoping-1.map
+*/
