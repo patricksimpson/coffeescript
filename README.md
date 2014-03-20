@@ -1,4 +1,4 @@
-el-coffeescript
+CoffeeScript
 ===============
 
 Sample code in the basics directory.
