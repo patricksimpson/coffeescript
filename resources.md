@@ -1,5 +1,9 @@
-http://coffeescriptcookbook.com/
-http://arcturo.github.io/library/coffeescript/
-http://coffeescript.org/
-https://github.com/raganwald/homoiconic/blob/master/2012/09/lexical-scope-in-coffeescript.md
-https://github.com/raganwald/homoiconic/blob/master/2012/09/actually-YOU-dont-understand-lexical-scope.md
+# Resources
+* http://coffeescriptcookbook.com/
+* http://arcturo.github.io/library/coffeescript/
+* http://coffeescript.org/
+* https://github.com/raganwald/homoiconic/blob/master/2012/09/lexical-scope-in-coffeescript.md
+* https://github.com/raganwald/homoiconic/blob/master/2012/09/actually-YOU-dont-understand-lexical-scope.md
+* http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/
+* https://github.com/sparkbox/generator-mg
+* https://github.com/mutewinter/tapas-with-ember
